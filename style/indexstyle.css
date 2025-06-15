@@ -1,0 +1,16 @@
+.title {
+  font-size: 45px;
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+  margin: 25px;
+}
+
+.intro {
+  max-width: 800px;
+  text-align: justify;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: rgb(137, 93, 202, 0.3);
+  margin: 0 auto;
+}

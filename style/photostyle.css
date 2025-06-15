@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+.face {
+  padding: 12px;
+  margin: 5px;
+  background-color: rgb(137, 93, 202, 0.4);
+  border-radius: 5px;
+}
